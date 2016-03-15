@@ -29,7 +29,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.68028769"
      inkscape:cx="270.23815"
-     inkscape:cy="449.83326"
+     inkscape:cy="685.02787"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -8309,18 +8309,18 @@
          inkscape:connector-curvature="0" />
     </g>
     <text
-       transform="scale(0.94653703,1.0564827)"
+       transform="scale(0.83581944,1.1964307)"
        xml:space="preserve"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.25637436px;line-height:125%;font-family:'Action Man';-inkscape-font-specification:'Action Man, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.36592412;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-       x="104.17883"
-       y="76.765152"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:48.09827805px;line-height:125%;font-family:'Action Man';-inkscape-font-specification:'Action Man, Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.2108947;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       x="106.81982"
+       y="67.848763"
        id="text6002"
        sodipodi:linespacing="125%"><tspan
-         style="stroke-width:1.36592412"
          sodipodi:role="line"
-         id="tspan6004"
-         x="104.17883"
-         y="76.765152">I Carrera Solidaria</tspan></text>
+         id="tspan5887"
+         x="106.81982"
+         y="67.848763"
+         style="stroke-width:1.2108947">I #Correcaminata Solidaria</tspan></text>
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#d23b26;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect6006"
@@ -8416,7 +8416,7 @@
        d="m 564.43856,334.35008 c -0.95574,0.21852 -1.76668,0.84709 -2.21663,1.71818 l -4.60343,6.7739 c -0.84168,1.58914 -0.82106,3.44322 0.23999,4.58229 1.54622,1.66017 4.53337,0.56516 5.78236,-1.73906 l 2.49446,-3.98663 1.95696,-2.48896 c 1.39352,-2.51815 -0.84756,-5.49902 -3.65371,-4.85972 z"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#786daa;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.68296206;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
     <g
-       transform="matrix(1.3659242,0,0,1.3659242,-1151.9831,-637.56531)"
+       transform="matrix(1.3659242,0,0,1.3659242,-1157.9831,-637.56531)"
        style="fill:#786daa;fill-opacity:1;stroke:#ffffff;stroke-opacity:1"
        id="g17364">
       <path
@@ -8827,29 +8827,29 @@
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/Carrera_Popular/elementos/caixa_poplar.JPG"
        xlink:href="elementos/caixa_poplar.JPG"
-       width="166.43207"
-       height="71.172325"
-       preserveAspectRatio="none"
-       id="image5940"
+       y="916.34137"
        x="46.992107"
-       y="916.34137" />
+       id="image5940"
+       preserveAspectRatio="none"
+       height="71.172325"
+       width="166.43207" />
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/Carrera_Popular/elementos/Cajamar_caja_rural_FONDO.jpg"
        xlink:href="elementos/Cajamar_caja_rural_FONDO.jpg"
-       width="175.55803"
-       height="65.613449"
-       preserveAspectRatio="none"
-       id="image6002"
+       y="919.39252"
        x="395.34909"
-       y="919.39252" />
+       id="image6002"
+       preserveAspectRatio="none"
+       height="65.613449"
+       width="175.55803" />
     <image
        sodipodi:absref="/home/creawww/DATOS/020_NOVATERRA/Novaterra/Carrera_Popular/elementos/PÍNDARO_ESPORTS_LOGO.jpg"
        xlink:href="elementos/PÍNDARO_ESPORTS_LOGO.jpg"
-       width="114.59586"
-       height="84.541115"
-       preserveAspectRatio="none"
-       id="image6064"
+       y="910.04358"
        x="594.62238"
-       y="910.04358" />
+       id="image6064"
+       preserveAspectRatio="none"
+       height="84.541115"
+       width="114.59586" />
   </g>
 </svg>
