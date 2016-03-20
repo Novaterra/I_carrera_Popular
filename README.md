@@ -1,6 +1,8 @@
 # Project Name
 NOVATERRA ONG
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Novaterra/I_carrera_Popular/master/dise%C3%B1o.png" width="600"/>
+</p>
 DISEÑO GRAFICO: Diseño de Logo y cartelería de I carrera Popular por la solidaridad Novaterra 2016
 
 ## REALIZADO CON
